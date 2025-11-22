@@ -7,12 +7,11 @@
             "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
             "precio": 550.95,
             "detalle": {
-                "area":75,
-                "rooms":2,
-                "floors":2,
-                "garages":1
+                "area": 75,
+                "rooms": 2,
+                "floors": 2,
+                "garages": 1
             }
-            
         },
         {
             "tipo": "Sale",
@@ -21,12 +20,11 @@
             "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-2.jpg",
             "precio": 190345.15,
             "detalle": {
-                "area":200,
-                "rooms":4,
-                "floors":1,
-                "garages":3
+                "area": 200,
+                "rooms": 4,
+                "floors": 1,
+                "garages": 3
             }
-            
         },
         {
             "tipo": "Rent",
@@ -35,12 +33,11 @@
             "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-3.jpg",
             "precio": 255.99,
             "detalle": {
-                "area":45,
-                "rooms":1,
-                "floors":1,
-                "garages":0
+                "area": 45,
+                "rooms": 1,
+                "floors": 1,
+                "garages": 0
             }
-            
         },
         {
             "tipo": "Sale",
@@ -49,13 +46,12 @@
             "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-4.jpg",
             "precio": 145700.00,
             "detalle": {
-                "area":120,
-                "rooms":3,
-                "floors":2,
-                "garages":2
+                "area": 120,
+                "rooms": 3,
+                "floors": 2,
+                "garages": 2
             }
         },
-
         {
             "tipo": "Rent",
             "clasificacion": "House",
@@ -63,10 +59,10 @@
             "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-5.jpg",
             "precio": 3750.50,
             "detalle": {
-                "area":350,
-                "rooms":5,
-                "floors":3,
-                "garages":6
+                "area": 350,
+                "rooms": 5,
+                "floors": 3,
+                "garages": 6
             }
         },
         {
@@ -76,14 +72,11 @@
             "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-6.jpg",
             "precio": 85000.00,
             "detalle": {
-                "area":35,
-                "rooms":1,
-                "floors":2,
-                "garages":1
+                "area": 35,
+                "rooms": 1,
+                "floors": 2,
+                "garages": 1
             }
-            
-        }       
-
-
-   ]
+        }
+    ]
 }
